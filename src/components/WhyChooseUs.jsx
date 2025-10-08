@@ -93,12 +93,12 @@ const WhyChooseUs = () => {
           </div>
           
           <h2 className="font-anton text-5xl md:text-6xl text-white uppercase mb-4 tracking-tight">
-            ENGINEERING <span className="bg-gradient-to-r from-green-400 to-cyan-400 bg-clip-text text-transparent">EXCELLENCE</span>
+          DIGITAL <span className="bg-gradient-to-r from-green-400 to-cyan-400 bg-clip-text text-transparent">EXCELLENCE</span>
           </h2>
           
           <p className="text-gray-400 text-lg leading-relaxed font-light">
-            Real-time metrics showcasing our technical prowess, development efficiency, 
-            and commitment to delivering exceptional software solutions.
+          Powering enterprise-grade applications with real-time insights, performance metrics, and delivery tracking.
+  This system dashboard reflects our commitment to agile development, continuous integration, and scalable solutions for clients across industries.
           </p>
         </div>
 
